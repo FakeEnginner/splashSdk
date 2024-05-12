@@ -1,0 +1,10 @@
+# application.yaml
+db:
+  mongo:
+    user: splashSdk
+    password: Splash@123
+    host: localhost
+    port: 27017
+    maxPoolSize: 20
+    database:
+      name: splashSdk
